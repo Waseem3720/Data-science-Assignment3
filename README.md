@@ -1,1 +1,1 @@
-# Data-science-Assignment3
+This repository processes disease data using TF-IDF and one-hot encoding for feature extraction and classification. It applies PCA/SVD for visualization and evaluates KNN and Logistic Regression models via cross-validation. A detailed analysis compares encoding methods and their clinical relevance.
